@@ -56,6 +56,12 @@
 
    `^c` into the the terminal from step 7
 
+9 To change to the path planning algorithm to the `param` folder and find the `global_planner.yaml` file. Then change the parameter to `use_dijkstra` to `true`
+
+10. To run the simulation in empty enviroment simply comment out line 69 in the `cafe_global_planner.launch` file
+
+11. To run the simualtion in a enviorment with only static objects comment out the line from step 10 and open the gazebo simultor and place the objects from the top toolbar whereever you would like. 
+
 
 
 
