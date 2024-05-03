@@ -28,9 +28,9 @@
 
     `catkin_make`
 4. If you installed all dependencies correctly, you shouldn’t get any errors.
-5. Change the file permissions to make it executable in /src fold if required:
+5. Change the file permissions to make it executable in /scripts folder if required:
 
-   `cd/navigation/scripts`
+   `cd/CPE695FinalProject/scripts`
 
     `ls`
 
