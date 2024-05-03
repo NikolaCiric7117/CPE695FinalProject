@@ -1,16 +1,16 @@
 # CPE695FinalProject
 
-## Requirments:
+## Requirements:
 -Ubuntu 20.04
 -ROS-Noetic
 -The Simulation Enviorment
 
-## Pre-requisites
+## Prerequisite:
 -C++ Compiler
 -Gazebo ROS Package
 
 
-## Running Intructions
+##  Running Instructions
 1. Install dependencies:
 
     `sudo apt install ros-noetic-navigation`
