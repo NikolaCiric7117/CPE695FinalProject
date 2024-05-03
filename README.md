@@ -60,7 +60,8 @@
 
 10. To run the simulation in empty enviroment simply comment out line 69 in the `cafe_global_planner.launch` file
 
-11. To run the simualtion in a enviorment with only static objects comment out the line from step 10 and open the gazebo simultor and place the objects from the top toolbar whereever you would like. 
+11. To run the simualtion in a enviorment with only static objects comment out the line from step 10 and open the gazebo 
+    simulator and place the objects from the top toolbar wherever you would like. 
 
 
 
