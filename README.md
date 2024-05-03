@@ -40,9 +40,9 @@
     `roslaunch navigation cafe_global_planner.launch`
 
 
-   make sure to source the doint
+   make sure to source by:
 
-   'source /devel/setup.bash'
+   `source /devel/setup.bash`
 
 7. To get the stats you have to run this script in a new terminal first before step 8:
 
