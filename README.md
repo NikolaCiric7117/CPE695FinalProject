@@ -30,7 +30,7 @@
 4. If you installed all dependencies correctly, you shouldn’t get any errors.
 5. Change the file permissions to make it executable in /scripts folder if required:
 
-   `cd/CPE695FinalProject/scripts`
+   `cd src/CPE695FinalProject/scripts`
 
     `ls`
 
