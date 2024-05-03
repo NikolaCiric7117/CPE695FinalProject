@@ -22,7 +22,7 @@
 
     `cd ~/catkin_ws/src`
 
-    `git clone --recurse-submodules https://github.com/SunnyGuang/cpe631`
+    `git clone --recurse-submodules https://github.com/NikolaCiric7117/CPE695FinalProject.git`
 
     `cd ~/catkin_ws`
 
@@ -35,3 +35,6 @@
     `ls`
 
     `chmod +x *`
+6. You can run the environment by executing
+
+    `roslaunch navigation cafe_global_planner.launch`
