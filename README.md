@@ -46,15 +46,15 @@
 
 7. To get the stats you have to run this script in a new terminal first before step 8:
 
-   'rosrun navigation stats.py'
+   `rosrun navigation stats.py`
 
 8. To commence navigation type in another terminal:
 
-   'rosrun navigation goal.py'
+   `rosrun navigation goal.py`
 
    once the goal has been reached type
 
-   '^c' into the the terminal from step 7
+   `^c` into the the terminal from step 7
 
 
 
