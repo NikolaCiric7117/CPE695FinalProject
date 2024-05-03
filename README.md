@@ -46,11 +46,11 @@
 
 7. To get the stats you have to run this script in a new terminal first before step 8:
 
-   `rosrun navigation stats.py`
+   `rosrun navigation time_take.py`
 
 8. To commence navigation type in another terminal:
 
-   `rosrun navigation goal.py`
+   `rosrun navigation goal_pose.py`
 
    once the goal has been reached type
 
