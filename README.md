@@ -56,7 +56,7 @@
 
    `^c` into the the terminal from step 7
 
-9 To change to the path planning algorithm to the `param` folder and find the `global_planner.yaml` file. Then change the parameter to `use_dijkstra` to `true`
+9 To change to the path planning algorithm go to the `param` folder and find the `global_planner.yaml` file. Then change the parameter to `use_dijkstra` to `true`
 
 10. To run the simulation in empty enviroment simply comment out line 69 in the `cafe_global_planner.launch` file
 
